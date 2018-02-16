@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "256915944925",
+    "firebase_url": "https://stsprealpha.firebaseio.com",
+    "project_id": "stsprealpha",
+    "storage_bucket": "stsprealpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256915944925:android:d589627993fa5e65",
+        "android_client_info": {
+          "package_name": "com.vlad.sts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256915944925-v27h6gd1gk4uuamfg1kpurmjsdrjbpsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vlad.sts",
+            "certificate_hash": "4d4c3d8ddee6c2f667ddaaf685517660444bbb81"
+          }
+        },
+        {
+          "client_id": "256915944925-5ld9vha3md20ttjim0ouu91f9hsnmpvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ehUz_Hg3hQAy1lFTNeO9VPM1F-P1Je0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256915944925-5ld9vha3md20ttjim0ouu91f9hsnmpvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

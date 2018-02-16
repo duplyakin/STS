@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_authorisation_success_toast_message">Авторизация успешна</string>
+    <string name="login_authorisation_failed_toast_message">Aвторизация провалена</string>
+    <string name="login_registration_success_toast_message">Регистрация успешна</string>
+    <string name="login_registration_failed_toast_message">Регистрация провалена</string>
+</resources>
